@@ -6,9 +6,9 @@ CNN-based image classification on CIFAR-10 dataset using TensorFlow/Keras. The m
 This project implements an image classification model using Convolutional Neural Networks (CNN) on the CIFAR-10 dataset.
 
 ## 🎯 Objective
-To classify images into 10 categories such as airplane, car, bird, cat, dog, etc.
+To classify images into 10 categories such as airplane, car, bird, cat, dog, automobile, etc.
 
-## 🛠 Technologies Used
+## 🛠 Technologies Used in cifar10-image-classification-cnn
 - Python
 - TensorFlow / Keras
 - Google Colab
